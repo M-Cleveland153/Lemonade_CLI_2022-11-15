@@ -1,0 +1,1 @@
+{"customer":{"name":"will","phoneNumber":1234},"lemonadeStand":{"name":"Cooksys Lemonade Stand"},"lemonades":[{"lemonJuice":2,"water":2,"sugar":2,"iceCubes":3,"price":1.92},{"lemonJuice":3,"water":3,"sugar":3,"iceCubes":3,"price":2.43}],"total":4.35}
